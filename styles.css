@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+li{
+	margin-inline: 20px;
+	display:inline;
+	font-weight: bolder;
+}
+li>a{
+	text-decoration: none;
+	color: black;
+}
